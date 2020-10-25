@@ -2,7 +2,7 @@
 """
 Created on Sun Oct 25 11:31:57 2020
 
-@author: PrivateCain
+@author: Taewon Lee
 """
 
 from multiprocessing import Pool
