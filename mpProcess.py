@@ -2,7 +2,7 @@
 """
 Created on Sun Oct 25 11:55:30 2020
 
-@author: PrivateCain
+@author: Taewon Lee 2015136106
 """
 
 import os
