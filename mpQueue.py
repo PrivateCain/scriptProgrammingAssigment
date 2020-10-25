@@ -2,7 +2,7 @@
 """
 Created on Sun Oct 25 12:23:06 2020
 
-@author: PrivateCain
+@author: Taewon Lee 2015136106
 """
 
 from multiprocessing import Process, Queue
